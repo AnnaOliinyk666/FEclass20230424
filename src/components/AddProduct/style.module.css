@@ -1,0 +1,11 @@
+.form{
+    display: flex;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    gap: 20px;
+}
+.form input{
+    padding: 10px;
+    
+}
